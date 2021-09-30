@@ -77,70 +77,6 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: prova
-  - gameObject: {fileID: 919132149155446097, guid: 4cb1009a1655045199dd6a8671abf3bc, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 58.5, y: 0, z: 0}
-      m_RotationRangeMax: {x: 58.5, y: 0, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.3, y: 0.4}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 0
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: fiorellino poly 8
-  - gameObject: {fileID: 919132149155446097, guid: 5d6a3759dba4848a999c05833ee293e3, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 153, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.5, y: 0.5}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: erba tripla
-  - gameObject: {fileID: 919132149155446097, guid: 79c48e34de21a4387846d34d97b66f37, type: 3}
-    settings:
-      m_Strength: 47
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 144, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.4, y: 0.4}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: erba singola
-  - gameObject: {fileID: 919132149155446097, guid: 4abeaaeed0a3b4678b38c1fc00e3b094, type: 3}
-    settings:
-      m_Strength: 19
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 189.5, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.4, y: 0.45}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: erba doppia
   - gameObject: {fileID: 919132149155446097, guid: e1af94e67ab2c49ab9538bdaebb0afa8, type: 3}
     settings:
       m_Strength: 50
@@ -157,22 +93,6 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: buco2
-  - gameObject: {fileID: 919132149155446097, guid: a59527f25cc7b443090ec898cfb0b85b, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 58, y: 0, z: 0}
-      m_RotationRangeMax: {x: 58, y: 0, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.31, y: 0.5}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: fiorellino poly 7
   - gameObject: {fileID: 919132149155446097, guid: 063d291f4855643d5b12f9e74277cea6, type: 3}
     settings:
       m_Strength: 50
@@ -253,3 +173,19 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: tsukushi_obj
+  - gameObject: {fileID: 919132149155446097, guid: 5a109ce252d9e4370bc64e239d8ede1d, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 1
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: erba prova 0
