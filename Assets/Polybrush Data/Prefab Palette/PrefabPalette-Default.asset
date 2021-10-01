@@ -13,22 +13,6 @@ MonoBehaviour:
   m_Name: PrefabPalette-Default
   m_EditorClassIdentifier: 
   prefabs:
-  - gameObject: {fileID: 919132149155446097, guid: 13bb3205077b84f2fac712600f116ca2, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 0, y: 88.72037, z: 0}
-      m_RotationRangeMax: {x: 0, y: 300.2844, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.7142856, y: 0.8571427}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: erba fine 2
   - gameObject: {fileID: 919132149155446097, guid: 02b70f503bc644bacbf69b215592b149, type: 3}
     settings:
       m_Strength: 12
@@ -77,22 +61,6 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: prova
-  - gameObject: {fileID: 919132149155446097, guid: e1af94e67ab2c49ab9538bdaebb0afa8, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.4, y: 0.6}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: buco2
   - gameObject: {fileID: 919132149155446097, guid: 063d291f4855643d5b12f9e74277cea6, type: 3}
     settings:
       m_Strength: 50
@@ -125,22 +93,6 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: prova 1
-  - gameObject: {fileID: 919132149155446097, guid: c0516a3182f0f40fbad383ca85ba5da2, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 203.03317, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.75, y: 0.75}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: erba fine 3
   - gameObject: {fileID: 919132149155446097, guid: 969b6ea1bbf9045d4b2edc4eb9dc6e34, type: 3}
     settings:
       m_Strength: 36.2
@@ -157,22 +109,6 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: fiori carta1
-  - gameObject: {fileID: 919132149155446097, guid: ad07511acb22f42d4a0df11220b80c37, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 222.12766, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.6, y: 0.6}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: tsukushi_obj
   - gameObject: {fileID: 919132149155446097, guid: 5a109ce252d9e4370bc64e239d8ede1d, type: 3}
     settings:
       m_Strength: 50
