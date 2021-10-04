@@ -45,54 +45,6 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: palliniobj
-  - gameObject: {fileID: 919132149155446097, guid: 8365fce64740a43619f508b4c92a9fc7, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 90, y: 0, z: 0}
-      m_RotationRangeMax: {x: 90, y: 184.2654, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.3, y: 0.5}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: prova
-  - gameObject: {fileID: 919132149155446097, guid: 063d291f4855643d5b12f9e74277cea6, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 270, y: 104.07583, z: 0}
-      m_RotationRangeMax: {x: 270, y: 104.07583, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 1, y: 1}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: enokill
-  - gameObject: {fileID: 919132149155446097, guid: 046cfc5b596654b4f97570b7e26dff1c, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 90, y: 22.1801, z: 0}
-      m_RotationRangeMax: {x: 90, y: 232.03792, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 1.4049586, y: 1.4049586}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: prova 1
   - gameObject: {fileID: 919132149155446097, guid: 969b6ea1bbf9045d4b2edc4eb9dc6e34, type: 3}
     settings:
       m_Strength: 36.2
@@ -109,19 +61,3 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: fiori carta1
-  - gameObject: {fileID: 919132149155446097, guid: 5a109ce252d9e4370bc64e239d8ede1d, type: 3}
-    settings:
-      m_Strength: 50
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 0, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 1, y: 1}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: erba prova 0
