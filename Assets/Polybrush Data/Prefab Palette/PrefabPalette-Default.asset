@@ -13,22 +13,6 @@ MonoBehaviour:
   m_Name: PrefabPalette-Default
   m_EditorClassIdentifier: 
   prefabs:
-  - gameObject: {fileID: 919132149155446097, guid: 02b70f503bc644bacbf69b215592b149, type: 3}
-    settings:
-      m_Strength: 12
-      m_RotationRangeMin: {x: 0, y: 0, z: 0}
-      m_RotationRangeMax: {x: 0, y: 145.0237, z: 0}
-      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
-      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
-      m_UniformScale: {x: 0.4, y: 0.4}
-      m_UniformBool: 1
-      m_XRotationBool: 1
-      m_YRotationBool: 1
-      m_ZRotationBool: 0
-      m_XScaleBool: 0
-      m_YScaleBool: 0
-      m_ZScaleBool: 0
-    name: tampopo1
   - gameObject: {fileID: 919132149155446097, guid: 02113b9da819247a48e53fbd3912a698, type: 3}
     settings:
       m_Strength: 50
